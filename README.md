@@ -1,5 +1,6 @@
 # Filtering API
 
+This project demonstrates how to implement dynamic filtering in a Spring Boot REST API using Jackson. It showcases how to control the serialization of JSON data based on runtime criteria, allowing flexible responses depending on user needs or request parameters.
 This API demonstrates how to perform filtering on JSON responses in Spring Boot using both static and dynamic serialization.
 
 ## Static Filtering
