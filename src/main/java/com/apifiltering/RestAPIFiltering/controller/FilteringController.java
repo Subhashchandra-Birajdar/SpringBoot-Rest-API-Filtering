@@ -22,6 +22,7 @@ public class FilteringController {
         return applyFiltering(student, "name", "city");
     }
 
+
     @GetMapping("/filtering-list")
     public MappingJacksonValue filteringList() {
         // Create a list of Student objects
